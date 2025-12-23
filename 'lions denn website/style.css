@@ -1,0 +1,48 @@
+header{
+    background-color:aqua;
+        text-align: center;
+    padding: 15px;
+
+}
+
+h1 {
+      background-color:rgb(215, 113, 11);
+    text-align: center;
+     padding: 30px;
+}
+
+.info-box {
+  border: 2px solid #5a3e1b;
+  padding: 20px;
+  max-width: 600px;
+  background-color: #f9f6f1;
+  border-radius: 10px;
+  margin: 30px auto;
+  font-family: Arial, sans-serif;
+}
+
+.bear-box {
+  position: absolute;
+  left: 0;
+}
+
+
+.info-box2 {
+  border: 2px solid #5a3e1b;
+  padding: 20px;
+  max-width: 600px;
+  background-color: #f9f6f1;
+  border-radius: 10px;
+   margin: 30px 0 30px 30px;
+  font-family: Arial, sans-serif;
+}
+
+.bear-box2 {
+    position: absolute;
+  left: 0;
+}
+
+
+
+
+
