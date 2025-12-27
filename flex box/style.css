@@ -1,0 +1,31 @@
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+  padding: 20px;
+}
+
+.grid-box {
+  border: 2px solid #5a3e1b;
+  background-color: #f9f6f1;
+  padding: 20px;
+  border-radius: 12px;
+  font-family: Arial, sans-serif;
+}
+
+.grid-box h3 {
+  margin-top: 0;
+}
+
+header{
+    background-color:aqua;
+        text-align: center;
+    padding: 15px;
+
+}
+
+h1 {
+      background-color:rgb(215, 113, 11);
+    text-align: center;
+     padding: 30px;
+}
